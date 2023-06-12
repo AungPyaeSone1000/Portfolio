@@ -15,7 +15,7 @@ body{
 }
 
 section{
-    min-height: 100vh;
+    min-height: 100vh; 
     padding: 10rem 9% 2rem;
 }
 
@@ -168,6 +168,13 @@ span {
     text-align: center;
     background-color: #293f52;
     border-radius: 2rem;
+    border: .2rem solid #293f52;
+    transition: .5s ease;
+}
+
+.service-box:hover{
+    transform: scale(1.04);
+    border-color: black;
 }
 
 .service-box i {
@@ -182,3 +189,4 @@ span {
 .service-box p {
     font-size: 1.5rem;
 }
+
