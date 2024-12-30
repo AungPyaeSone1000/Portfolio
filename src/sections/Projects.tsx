@@ -4,7 +4,6 @@ import musicPlayerImage from "@/assets/images/MusicPlayerImage.png";
 import Image from "next/image";
 import TechStack from "@/assets/icons/tech-stack.svg";
 import ArrowUp from "@/assets/icons/arrow-up-right.svg";
-import grainImage from "@/assets/images/grain.jpg";
 import SectionHeader from "@/components/SectionHeader";
 import Card from "@/components/Card";
 
